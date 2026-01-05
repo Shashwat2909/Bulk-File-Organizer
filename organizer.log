@@ -1,0 +1,94 @@
+2026-01-02 18:47:00,273 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 18:52:40,387 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 18:54:09,153 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 18:54:09,154 - INFO - Moved: report.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/report.pdf
+2026-01-02 18:54:39,824 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 18:54:39,825 - INFO - Moved: report.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/report.pdf
+2026-01-02 18:57:39,835 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 18:57:39,835 - INFO - Moved: test_file.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/test_file.pdf
+2026-01-02 18:57:52,174 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 18:57:52,175 - INFO - Moved: test_file.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/test_file.pdf
+2026-01-02 19:01:57,118 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 19:01:57,118 - INFO - Moved: test_file.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/test_file.pdf
+2026-01-02 19:04:46,530 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 19:04:46,530 - INFO - Moved: test_file.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/test_file.pdf
+2026-01-02 19:07:25,952 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 19:07:25,953 - ERROR - Could not move test_file.pdf. Error: 
+2026-01-02 19:08:08,782 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 19:08:08,782 - ERROR - Could not move test_file.pdf. Error: File Already Exist.
+2026-01-02 19:15:29,483 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 19:15:29,484 - ERROR - Could not move test_file.pdf. ERROR: File Already Exist.
+2026-01-02 19:22:03,364 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 19:22:03,364 - WARNING - WARNING: File Already Exist. File: /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/test_file.pdf
+2026-01-02 19:22:03,364 - INFO - Moved: test_file.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/test_file_(1.pdf)
+2026-01-02 19:22:48,825 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 19:22:48,826 - WARNING - WARNING: File Already Exist. File: /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/test_file.pdf
+2026-01-02 19:22:48,826 - INFO - Moved: test_file.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/test_file_(1).pdf
+2026-01-02 20:19:36,847 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 20:19:36,847 - INFO - Moved: music.mp3 into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Audio/music.mp3
+2026-01-02 20:19:36,847 - INFO - Moved: report.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/report.pdf
+2026-01-02 20:19:36,848 - INFO - Moved: image.JPG into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Image/image.JPG
+2026-01-02 20:20:04,765 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 20:20:04,765 - INFO - Moved: music.mp3 into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Audio/music.mp3
+2026-01-02 20:20:04,765 - INFO - Moved: report.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/report.pdf
+2026-01-02 20:20:04,765 - INFO - Moved: image.JPG into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Image/image.JPG
+2026-01-02 20:21:41,715 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 20:22:06,121 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 20:22:06,121 - INFO - Moved: music.mp3 into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Audio/music.mp3
+2026-01-02 20:22:06,121 - INFO - Moved: report.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/report.pdf
+2026-01-02 20:22:06,121 - INFO - Moved: image.JPG into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Image/image.JPG
+2026-01-02 20:25:15,500 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 20:25:23,589 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-02 20:25:32,514 - INFO - Organizing File in -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-04 13:53:34,531 - INFO - Organizing File of -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-04 13:53:34,570 - INFO - Moved: music.mp3 into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Audio/music.mp3
+2026-01-04 13:53:34,570 - INFO - Moved: report.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/report.pdf
+2026-01-04 13:53:34,570 - INFO - Moved: image.JPG into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Image/image.JPG
+2026-01-04 14:12:04,516 - INFO - Organizing File of -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-04 14:12:04,534 - INFO - Moved: music.mp3 into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Audio/music.mp3
+2026-01-04 14:12:04,535 - INFO - Moved: report.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/report.pdf
+2026-01-04 14:12:04,535 - INFO - Moved: image.JPG into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Image/image.JPG
+2026-01-04 14:12:35,390 - INFO - Organizing File of -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-04 14:12:35,390 - INFO - --- DRY RUN MODE ENABLED: No files will be moved. ---
+2026-01-04 14:16:13,730 - INFO - Organizing File of -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-04 14:16:13,730 - INFO - --- DRY RUN MODE ENABLED: No files will be moved. ---
+2026-01-04 14:16:13,742 - INFO - [DRY-RUN] Would move music.mp3 to /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Audio/music.mp3
+2026-01-04 14:16:13,743 - INFO - [DRY-RUN] Would move report.pdf to /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/report.pdf
+2026-01-04 14:16:13,743 - INFO - [DRY-RUN] Would move image.JPG to /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Image/image.JPG
+2026-01-04 14:20:44,870 - INFO - Organizing File of -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-04 14:20:44,886 - INFO - Moved: music.mp3 into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Audio/music.mp3
+2026-01-04 14:20:44,887 - INFO - Moved: report.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/report.pdf
+2026-01-04 14:20:44,887 - INFO - Moved: image.JPG into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Image/image.JPG
+2026-01-04 14:22:34,816 - INFO - Organizing File of -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-04 14:22:34,816 - INFO - --- LIVE RUN MODE ENABLED: File system changes will be made. ---
+2026-01-04 14:22:34,830 - INFO - Moved: music.mp3 into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Audio/music.mp3
+2026-01-04 14:22:34,830 - INFO - Moved: report.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/report.pdf
+2026-01-04 14:22:34,830 - INFO - Moved: image.JPG into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Image/image.JPG
+2026-01-06 01:15:43,570 - INFO - Organizing File of -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-06 01:15:43,570 - INFO - --- LIVE RUN MODE ENABLED: File system changes will be made. ---
+2026-01-06 01:15:43,593 - INFO - Moved: music.mp3 into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Audio/music.mp3
+2026-01-06 01:15:43,593 - INFO - Moved: report.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/report.pdf
+2026-01-06 01:15:43,593 - INFO - Moved: image.JPG into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Image/image.JPG
+2026-01-06 01:16:46,153 - INFO - Organizing File of -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-06 01:16:46,153 - INFO - --- LIVE RUN MODE ENABLED: File system changes will be made. ---
+2026-01-06 01:16:46,171 - INFO - Moved: test.webp into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Other/test.webp
+2026-01-06 01:17:10,525 - INFO - Organizing File of -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-06 01:17:10,525 - INFO - --- LIVE RUN MODE ENABLED: File system changes will be made. ---
+2026-01-06 01:17:10,538 - INFO - Moved: test.webp into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Image/test.webp
+2026-01-06 01:25:12,095 - INFO - Organizing File of -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-06 01:25:12,095 - INFO - --- LIVE RUN MODE ENABLED: File system changes will be made. ---
+2026-01-06 01:32:22,792 - ERROR - Config File: "/Users/shashwatkushwaha/Developer/Python/Bulk File Organizer/config.json" does NOT EXIST.
+2026-01-06 01:32:22,792 - ERROR - Please make sure 'config.json' exists in the same directory as the script.
+2026-01-06 01:32:51,941 - INFO - Organizing File of -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-06 01:32:51,941 - INFO - --- LIVE RUN MODE ENABLED: File system changes will be made. ---
+2026-01-06 01:33:02,660 - ERROR - Error parsing config file: /Users/shashwatkushwaha/Developer/Python/Bulk File Organizer/config.json
+2026-01-06 01:33:02,660 - ERROR - Invalid Json! Please fix 'config.json'.
+2026-01-06 01:33:19,167 - INFO - Organizing File of -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-06 01:33:19,167 - INFO - --- LIVE RUN MODE ENABLED: File system changes will be made. ---
+2026-01-06 02:56:19,362 - INFO - Organizing File of -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-06 02:56:19,362 - INFO - --- LIVE RUN MODE ENABLED: File system changes will be made. ---
+2026-01-06 02:57:02,398 - INFO - Organizing File of -> /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org
+2026-01-06 02:57:02,398 - INFO - --- LIVE RUN MODE ENABLED: File system changes will be made. ---
+2026-01-06 02:57:02,415 - INFO - Moved: music.mp3 into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Audio/music.mp3
+2026-01-06 02:57:02,416 - INFO - Moved: report.pdf into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Document/report.pdf
+2026-01-06 02:57:02,416 - INFO - Moved: image.JPG into /Users/shashwatkushwaha/Developer/Python/test_folder/test_file_org/Image/image.JPG
