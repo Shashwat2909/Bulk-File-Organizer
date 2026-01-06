@@ -1,0 +1,19 @@
+# Byte-compiled / C extensions
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+
+# Logs
+*.log
+organizer.log
+
+# Config (sensitive)
+config.json
+.env
+
+# IDE
+.vscode/
+.idea/
